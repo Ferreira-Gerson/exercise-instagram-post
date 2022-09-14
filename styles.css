@@ -1,0 +1,55 @@
+
+body {
+    background: black;
+} 
+
+.header {
+    
+}
+
+img {
+    width: 400px;
+}
+
+strong,
+p {
+    font-family: 'Roboto';
+    margin: 0;
+    padding: 5px;
+}
+
+.post {
+    width: 400px;
+    height: 550px;
+    margin: auto;
+    background: white;
+}
+
+.title {
+    padding: 10px;
+    display: inline-block;
+}
+.fa-brands fa-html5 {
+  padding: 10px;
+  display: table;
+}
+
+.owenner {
+    display: inline-block;
+    margin-top: 10px;
+    
+}
+
+.ellipsis {
+   float: right;
+   padding: 10px;
+}
+.reaction {
+    padding: 10px;
+    display: inline-block;
+}
+.bookmark {
+    padding: 10px;
+    margin-top: 0;
+    float: right;
+}
